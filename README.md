@@ -2,7 +2,7 @@
 ```
 
 import java.util.Scanner;
-public class Problem2 {
+public class Main {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int Again = 0;
